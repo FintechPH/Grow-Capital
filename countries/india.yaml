@@ -1,1 +1,14 @@
 
+country:
+  name: India
+  code: IN
+  currency: INR
+  phone_code: "+91"
+
+gold:
+  provider: augmont
+  buy_enabled: true
+  sell_enabled: true
+
+compliance:
+  kyc_required: true
