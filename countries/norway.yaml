@@ -1,1 +1,14 @@
 
+country:
+  name: Norway
+  code: NO
+  currency: NOK
+  phone_code: "+47"
+
+gold:
+  provider: generic_provider
+  buy_enabled: true
+  sell_enabled: true
+
+compliance:
+  kyc_required: true
