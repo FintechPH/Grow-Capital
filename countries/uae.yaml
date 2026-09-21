@@ -1,1 +1,14 @@
 
+country:
+  name: United Arab Emirates
+  code: AE
+  currency: AED
+  phone_code: "+971"
+
+gold:
+  provider: safegold
+  buy_enabled: true
+  sell_enabled: true
+
+compliance:
+  kyc_required: true
