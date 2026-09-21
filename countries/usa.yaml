@@ -1,1 +1,14 @@
 
+country:
+  name: United States
+  code: US
+  currency: USD
+  phone_code: "+1"
+
+gold:
+  provider: generic_provider
+  buy_enabled: true
+  sell_enabled: true
+
+compliance:
+  kyc_required: true
